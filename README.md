@@ -1,7 +1,5 @@
-Project is about brain tumor detection with MRI 
+Input (Brain MRI scan)
 
-the dataset for project: 
+Output(Model prediction for segmentation of tumor regions in brain MRI scans.)
 
-https://github.com/prakash-noah/Brain_tumor-MRI-data.git
-
-In util.py replace Deconvolution3D to Conv3Dtranspose.
+![download (5)](https://user-images.githubusercontent.com/47061784/221514689-e39b835b-131f-4f41-a82d-8a4f1101ced1.png)
